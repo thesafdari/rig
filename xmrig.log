@@ -1,0 +1,33 @@
+ * ABOUT        XMRig/6.8.2 gcc/5.4.0
+ * LIBS         libuv/1.40.0 OpenSSL/1.1.1i hwloc/2.4.0
+ * HUGE PAGES   supported
+ * 1GB PAGES    unavailable
+ * CPU          Intel(R) Core(TM) i5-2435M CPU @ 2.40GHz (1) 64-bit AES
+                L2:0.5 MB L3:3.0 MB 2C/4T NUMA:1
+ * MEMORY       4.1/7.7 GB (54%)
+ * DONATE       1%
+ * ASSEMBLY     auto:intel
+ * POOL #1      xmr.pool.minergate.com:45700 algo auto
+ * COMMANDS     hashrate, pause, resume, results, connection
+ * OPENCL       disabled
+ * CUDA         disabled
+[2023-10-23 20:45:23.805]  signal   SIGTERM received, exiting
+ * ABOUT        XMRig/6.8.2 gcc/5.4.0
+ * LIBS         libuv/1.40.0 OpenSSL/1.1.1i hwloc/2.4.0
+ * HUGE PAGES   supported
+ * 1GB PAGES    unavailable
+ * CPU          Intel(R) Core(TM) i5-2435M CPU @ 2.40GHz (1) 64-bit AES
+ * MEMORY       4.1/7.7 GB (54%)
+                L2:0.5 MB L3:3.0 MB 2C/4T NUMA:1
+ * DONATE       1%
+ * ASSEMBLY     auto:intel
+ * POOL #1      xmr.pool.minergate.com:45700 algo auto
+ * COMMANDS     hashrate, pause, resume, results, connection
+ * OPENCL       disabled
+ * CUDA         disabled
+[2023-10-23 20:45:43.994]  net      xmr.pool.minergate.com:45700 connect error: "operation canceled"
+[2023-10-23 20:46:10.107]  net      xmr.pool.minergate.com:45700 connect error: "operation canceled"
+[2023-10-23 20:46:35.216]  net      xmr.pool.minergate.com:45700 connect error: "operation canceled"
+[2023-10-23 20:46:47.549]  net      xmr.pool.minergate.com:45700 read error: "end of file"
+[2023-10-23 20:47:13.364]  net      xmr.pool.minergate.com:45700 connect error: "operation canceled"
+[2023-10-23 20:51:52.534]  signal   SIGTERM received, exiting
